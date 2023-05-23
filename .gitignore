@@ -1,0 +1,24 @@
+# Ignorar arquivos gerados automaticamente
+bin/
+obj/
+
+# Ignorar arquivos de dependências do NuGet
+*.nuget.props
+*.nuget.targets
+
+# Ignorar arquivos temporários do Visual Studio
+.vs/
+*.suo
+*.user
+*.bak
+*.cache
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação
+*.dll
+*.exe
+
+# Ignorar arquivos de configuração do IIS
+*.config
