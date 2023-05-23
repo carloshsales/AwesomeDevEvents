@@ -2,11 +2,11 @@
 bin/
 obj/
 
-# Ignorar arquivos de dependências do NuGet
+# Ignorar arquivos de dependï¿½ncias do NuGet
 *.nuget.props
 *.nuget.targets
 
-# Ignorar arquivos temporários do Visual Studio
+# Ignorar arquivos temporï¿½rios do Visual Studio
 .vs/
 *.suo
 *.user
@@ -16,9 +16,9 @@ obj/
 # Ignorar arquivos de log
 *.log
 
-# Ignorar arquivos de compilação
+# Ignorar arquivos de compilaï¿½ï¿½o
 *.dll
 *.exe
 
-# Ignorar arquivos de configuração do IIS
+# Ignorar arquivos de configuraï¿½ï¿½o do IIS
 *.config
